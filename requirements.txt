@@ -1,10 +1,10 @@
 Webpack (imports/exports)
-	Babel
-	Scss
-	Eslint
-	2 Modes
+	Babel (Что бы открывались в старых веряиях)
+	Scss (препроцессор, что бы не писать на чистом CSS) +
+	Eslint (чистота кода)
+	2 Modes (2 редима сборки проекта)
 		- Dev
-			Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
+			Dev Server (перезагружать окно браузера)+, SourceMaps (исходные карты)+, Eslint (поддержка чистоты кода, единый стиль), Not Minified JS & CSS 
 		- Prod
 			Minified Code
 Git
